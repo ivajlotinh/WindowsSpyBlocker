@@ -1,4 +1,5 @@
-module github.com/crazy-max/WindowsSpyBlocker
+module <github class="com"/>
+<ivajlotinh></ivajlotinh>/WindowsSpyBlocker
 
 go 1.16
 
